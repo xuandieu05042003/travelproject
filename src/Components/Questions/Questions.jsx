@@ -63,7 +63,7 @@ const Questions = () => {
                     <div className="formContent grid">
                         <input type="email" placeholder="Enter email address" data-aos = 'fade-down'/>
                         <textarea placeholder="Enter your questions here" data-aos = 'fade-down'></textarea>
-                        <button className="btn" data-aos = 'fade-down'>Submit Inquiry</button>
+                        <button className="SMit btn" data-aos = 'fade-down'>Submit</button>
                     </div>
                 </div>
             </div>

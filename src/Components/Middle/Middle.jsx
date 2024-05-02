@@ -15,7 +15,7 @@ const Middle = () =>{
             <div className="grid">
 
                 <span className="flex" data-aos = 'fade-up'>
-                    <h1>10</h1>
+                    <h1 className="counter">10</h1>
                     <p>World Of Experiences</p>
                 </span>
 
